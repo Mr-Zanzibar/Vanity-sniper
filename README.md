@@ -1,2 +1,2 @@
 # Vanity-sniper
-Vinity sniper
+Vanity sniper
